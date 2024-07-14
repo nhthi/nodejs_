@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* restaurantcard */
+.favourite:hover{
+  transform: scale(1.2);
+}
+
+.favourite{
+  transition: transform 0.3s ease;
+}
+
+/* restaurantcard */
